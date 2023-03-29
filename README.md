@@ -2,7 +2,7 @@
 
 The poject is about a Login and Registration form made in a studing of HTML and CSS.
 
-Many websites and applications that require users to authenticate themselves before accessing certain features or content include a login/register form. The form in this case is coded in HTML, CSS, and eventualy needed JavaScript, which are common web development technologies.
+Many websites and applications that require users to authenticate themselves before accessing certain features or content include a login/register form. The form in this case is coded in HTML, CSS and eventualy needed JavaScript, which are common web development technologies.
 
 I concentrated my efforts as a beginner on learning the fundamental elements of the form, such as the username, password, and email address input fields, as well as the form submission button. 
 
